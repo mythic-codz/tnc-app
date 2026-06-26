@@ -1,0 +1,6 @@
+{
+  "name": "TNC Nursing Tests",
+  "description": "TNC Nursing Test Series promoting free mock tests (NORCET, AIIMS, CHO) with interactive multi-phase quiz mode and local/remote attempt tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
